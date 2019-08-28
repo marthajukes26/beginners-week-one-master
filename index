@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <title>Practice Website</title>
+  <link rel="stylesheet" type="text/css" href="css/main.css"
+
+
+  </head>
+  <body>
+    <div id="introduction">
+      <h1>Hey! Welcome to my website.</h1>
+      <p>I'm not sure what to write about so have a picture.</p>
+      <img SRC="namjoohyuk.png">
+      <p>:)))))))</p>
+    </div>
+
+    <div>
+      <h2>Wow welcome to a new section.</h2>
+      <p>This is just random pictures of my favourite people at this point.</p>
+      <img SRC="ksoo.JFIF">
+    </div>
+
+    <div class="myselect">
+      <p>Now lets do a mini quiz! cause why not!</p>
+      <select>
+        <option value="0">Select a song:</option>
+        <option value="1">Rodeo By Monsta X:</option>
+        <option value="2">Pied Piper By BTS:</option>
+        <option value="3">The Eve By EXO:</option>
+      </select>
+    </div>
+  </body>
+</html>
